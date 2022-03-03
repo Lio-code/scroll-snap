@@ -1,3 +1,9 @@
+# Get the full tutorial here
+
+https://css-tricks.com/practical-css-scroll-snapping/
+or with video
+https://www.youtube.com/watch?v=htw4iKMYzEc
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
